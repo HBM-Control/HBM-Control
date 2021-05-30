@@ -1,6 +1,8 @@
-# SEMBAH
 <!-- PROJECT LOGO -->
 <br />
+<p> 
+  <h1>SEMBAH</h1>
+</p>
 <p align="center">
   <h2 align="center">SENSORIAMENTO/MONITORAMENTO DE BACIAS HIDROGRÁFICAS</h3>
 </p>
