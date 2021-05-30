@@ -1,2 +1,7 @@
 # SEMBAH
-Projeto proposto para a disciplina de Projeto Integrador III, Instituto Federal de Santa Catarina - Campus São Jose, curso de Engenharia de Telecomunicações
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+
+  <h3 align="center">SENSORIAMENTO/MONITORAMENTO DE BACIAS HIDROGRÁFICAS</h3>
+</p>
