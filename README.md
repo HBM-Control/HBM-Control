@@ -1,10 +1,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p> 
-  <h1>SEMBAH</h1>
+  <h1>HBM-Control</h1>
 </p>
 <p align="center">
-  <h2 align="center">SENSORIAMENTO/MONITORAMENTO DE BACIAS HIDROGRÁFICAS</h3>
+  <h2 align="center">SISTEMA DE SENSORIAMENTO/MONITORAMENTO DE BACIAS HIDROGRÁFICAS</h3>
 </p>
 
 <!-- ABOUT THE PROJECT -->
