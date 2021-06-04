@@ -3,24 +3,33 @@
 
 SENSORIAMENTO/MONITORAMENTO DE BACIAS HIDROGRÁFICAS (Estação com sensores Hidrológicos)
 
+1. [Descrição.](#1-descrição)
+2. [Entradas do Sistema](#2-entrada-do-sistema)
+3. [Saídas do Sistema.](#2-saídas)
+4. [Funções do Sistema.](#3-funcionalidades)
+5. [Requisitos não funcionais.](#4-requisitos-não-funcionais)
+6. [Restrições.](#5-restrições)
+
 ## Sigla do projeto
 
 SEMBAH
 
-## Descrição
+
+
+## 1. Descrição
 
 A proposta é auxiliar na automatização do processo de monitoramento de Bacias Hidrográficas.\
 Será desenvolvido um sistema interligando uma cadeia de estações de sensoriamento  que irão prover dados para monitoração das bacias hidrográficas e seus afluentes.
 O Projeto contará com pelo menos uma estação  de sensoriamento pluviométrico, altura linimétrica,  e de vazão. Essa estação, denominada END POINT enviará informações coletadas para um GATEWAY via LoRaWAN, que por sua vez irá transmitir (via 3/4G) as medições para um servidor que irá prover o processamento/armazenamento desses dados, assim como a disponibilidade via interface web.  
 
-## Entradas do sistema
+## 2. Entradas do Sistema
 
 END POINT:
 - Sensor limnimétrico;
 - Sensor pluviométrico;
 - Sensor de vazão;
-- Sensor de umidade;(verificar se vamos incluir)
-- Sensor de temperatura;(verificar se vamos incluir)
+- Sensor de umidade;
+- Sensor de temperatura;
 - Status bateria.
 
 GATEWAY:
@@ -31,16 +40,15 @@ GATEWAY:
 SERVIDOR:
 - Receber informações dos GATEWAY’s.
 
-## Saídas do sistema
+## 3. Saídas do Sistema
 
 END POINT:
 - Transmissão via LoRaWAN do payload:
-- Cabeçalho: ID da estação + ID da leitura;
 - Sensor limnimétrico;
 - Sensor pluviométrico;
 - Sensor de vazão;
-- Sensor de umidade;(verificar se vamos incluir)
-- Sensor de temperatura;(verificar se vamos incluir)
+- Sensor de umidade;
+- Sensor de temperatura;
 - Status bateria.
 
 GATEWAY:
@@ -52,7 +60,7 @@ SERVIDOR:
 - Receber informações do gateways;
 - Representação através de interface web dos dados coletados/processados.
 
-## Funções do sistema
+## 4. Funções do Sistema
 
 - Fazer medições do nível de água (altura linimétrica);
 - Fazer medições da quantidade de chuva (pluviometro);
@@ -61,7 +69,7 @@ SERVIDOR:
 - Consultar dados (Históricos);
 - Processar informações e emitir alertas.
 
-## Requisitos não funcionais
+## 5. Requisitos não funcionais
 
 **Energia:** Células fotovoltaicas ligadas a um banco de baterias com pelo menos 1000 mAh. Por se tratar de um sistema de baixa complexidade, com leituras espaçadas e utilizando LoraWAN, não  irá consumir tanto este recurso no END POINT.  O Gateway pode ser ligado diretamente no AC, ou também contar com banco de baterias próprio.
 
