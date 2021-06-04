@@ -4,11 +4,10 @@
 SENSORIAMENTO/MONITORAMENTO DE BACIAS HIDROGRÁFICAS (Estação com sensores Hidrológicos)
 
 1. [Descrição.](#1-descrição)
-2. [Entradas do Sistema](#2-entrada-do-sistema)
-3. [Saídas do Sistema.](#2-saídas)
-4. [Funções do Sistema.](#3-funcionalidades)
-5. [Requisitos não funcionais.](#4-requisitos-não-funcionais)
-6. [Restrições.](#5-restrições)
+2. [Entradas do Sistema.](#2-entradas-do-sistema)
+3. [Saídas do Sistema.](#3-saídas-do-sistema)
+4. [Funções do Sistema.](#4-funções-do-sistema)
+5. [Requisitos não funcionais.](#5-requisitos-não-funcionais)
 
 ## Sigla do projeto
 
