@@ -27,8 +27,8 @@ interface web.
 
 <!-- ÍNDICE -->
 ## Índice
-1. [Requisitos] (https://github.com/HBM-Control/HBM-Control/blob/main/doc/requisitos.md)
-2. [Especificações] (https://github.com/HBM-Control/HBM-Control/blob/main/doc/especificacoes.md)
+1. [Requisitos] (/doc/requisitos.md)
+2. [Especificações] (/doc/especificacoes.md)
 
 
 <!-- AUTORES -->
