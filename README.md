@@ -9,6 +9,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
+
+<p align="justify">
+
 Projeto proposto para a disciplina de Projeto Integrador III, do curso de Engenharia de Telecomunicações.\
 Instituto Federal de Santa Catarina - Campus São Jose (IFSC-SJ)
 
@@ -20,6 +23,8 @@ e de vazão. Essa estação, denominada END POINT enviará informações coletad
 GATEWAY via LoRaWAN, que por sua vez irá transmitir (via 3/4G) as medições para um servidor
 que irá prover o processamento/armazenamento desses dados, assim como a disponibilidade via
 interface web.
+    
+</p>
 
 <!-- ÍNDICE -->
 ## Índice
