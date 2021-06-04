@@ -9,8 +9,8 @@
 2. [Reed Switch](#2-sensor-pluviométrico)
 3. [Sensor de Umidade e Temperatura.](#3-sensor-de-umidade-e-temperatura)
 4. [Sensor de Fluxo de  Água.](#4-sensor-de-fluxo-de-água)
-
-
+5. [Gateway](#5-gateway)
+6. [Servidor](#6-servidor)
 ---
 
 
@@ -96,5 +96,29 @@
 |       **Dimensão externa**        |                                        2,5" x 1,4" x 1,4"                    |
 |           **Pinagem**             |                     Vermelho (VCC), Preto (GND), Amarelo (Saída PWM)         |
 |      **Outras Informações**       | [Datasheet](https://img.filipeflop.com/files/download/Datasheet_YF-S201.pdf) |
+
+---
+
+### 5. Gateway
+
+|            Raspberry              |                                                                              |
+| :-------------------------------: | :--------------------------------------------------------------------------: |
+|            **Modelo**             |                                 Pi 3 model B                                 |
+|          **Quantidade**           |                                     1                                        |
+|             **RAM**               |                                    1 GHz                                     |
+|          **Dimenssão**            |                              85mm x 56mm x 17mm                              |
+|           **Material**            |              Metais / Placa de Fenolite / Componentes Eletrônicos            |
+|         **Processador**           |           Broadcom BCM2837, Quad Core 64-bit ARMv8 Cortex-A53 1.2GHz         |
+
+---
+
+### 6. Servidor
+
+|  Servidor        |                    |
+| :--------------: | :----------------: |
+| **Modelo**       |       Cloud        |
+|  **Quantidade**  |         1          |
+|  **RAM**         |        8GB         |
+|   **HD**         |        1 TB        |
 
 ---
