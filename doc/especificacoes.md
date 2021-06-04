@@ -109,6 +109,7 @@
 |          **Dimenssão**            |                              85mm x 56mm x 17mm                              |
 |           **Material**            |              Metais / Placa de Fenolite / Componentes Eletrônicos            |
 |         **Processador**           |           Broadcom BCM2837, Quad Core 64-bit ARMv8 Cortex-A53 1.2GHz         |
+|      **Outras Informações**       |   [Raspberry-pi](https://www.filipeflop.com/produto/raspberry-pi-3-model-b/) |
 
 ---
 
