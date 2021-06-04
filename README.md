@@ -33,7 +33,7 @@ interface web.
 
 <!-- AUTORES -->
 ## AUTORES
-1. Filipe Kuhnen  
-2. Gabriel
-3. Gustavo
+1. [Filipe Kuhnen](https://github.com/filipekuhnen)  
+2. [Gabriel](https://github.com/gabrielwg)
+3. [Gustavo](https://github.com/gugon)
 
