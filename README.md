@@ -27,8 +27,8 @@ interface web.
 
 <!-- ÍNDICE -->
 ## Índice
-1. [Requisitos] (/doc/requisitos.md)
-2. [Especificações] (/doc/especificacoes.md)
+1. [Requisitos](/doc/requisitos.md)
+2. [Especificações](/doc/especificacoes.md)
 
 
 <!-- AUTORES -->
