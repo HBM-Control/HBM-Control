@@ -27,9 +27,9 @@ interface web.
 
 <!-- ÍNDICE -->
 ## Índice
-1. [Requisitos](/Doumentos/requisitos.md)
-2. [Especificações](/Doumentos/especificacoes.md)
-3. [Arquitetura](https://github.com/HBM-Control/HBM-Control/blob/main/Doumentos/ARQUITETURA_SISTEMA_TOP_LEVEL.jpg)
+1. [Requisitos](/Documentos/requisitos.md)
+2. [Especificações](/Documentos/especificacoes.md)
+3. [Arquitetura](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/ARQUITETURA_SISTEMA_TOP_LEVEL.jpg)
 
 
 <!-- AUTORES -->
