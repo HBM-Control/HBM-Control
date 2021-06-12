@@ -24,6 +24,8 @@ GATEWAY via LoRaWAN, que por sua vez irá transmitir (via 3/4G) as medições pa
 que irá prover o processamento/armazenamento desses dados, assim como a disponibilidade via
 interface web.
 
+![Top Level](./Documentos/imagens/ARQUITETURA%20-TOP%20LEVEL.jpg)
+
 
 <!-- ÍNDICE -->
 ## Índice
