@@ -7,11 +7,11 @@
 4. [Servidor.](#4-servidor)
 
 
-### 1. TOP LEVEL
+### 1. Top Level
 
 ![Top Level](./imagens/ARQUITETURA%20-TOP%20LEVEL.jpg)
 
-### 2. END POINT
+### 2. End Point
 
 ![End Point](./imagens/ARQUITETURA%20-ENDPOINT.jpg)
 
