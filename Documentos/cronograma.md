@@ -2,9 +2,20 @@
 
 Ciclo 1 - 14/06 até 19/07
 
-| Etapa | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** |
-|:-----:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|   **Refinamento**      | X |   |   |   |   | 
-|   **Detalhamento**     | X |   |   |   |   |
-|   **Desenvolvimento**  |   | X | X | X | X |
-|   **Testes**           |   |   |   | X | X |
+| Etapa | **24/05 (1)** | **31/05 (2)** | **07/06 (3)** | **14/06 (4)** | **21/06 (5)** | **28/06 (6)** | **05/07 (7)** | **12/07 (8)** | **19/07 (9)** |
+|:---------------------------------------------:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|                                               | 24|31 | 7 | 14| 21| 28| 05 | 12 | 19 |
+|**Concepção da ideia**                         | X |   |   |   |   |   |    |    |    | 
+|**Definição dos requisitos**                   | X |   |   |   |   |   |    |    |    | 
+|**Detalhamento - Especificações**              |   | X | X |   |   |   |    |    |    |
+|**Detalhamento - Arquitetura**                 |   |   | X | X |   |   |    |    |    |
+|**Detalhamento - Diagrama de classes**         |   |   |   | X |   |   |    |    |    |
+|**Desenvolvimento - Estudo dos sensores**      |   |   |   | X | X |   |    |    |    |
+|**Desenvolvimento - END POINT**                |   |   |   |   | X | X |    |    |    |
+|**Desenvolvimento - Estudo dos transmissores** |   |   |   |   | X | X |    |    |    |
+|**Desenvolvimento - Gateway**                  |   |   |   |   |   | X |    |    |    |
+|**Desenvolvimento - Estudo de DB e WebAPP**    |   |   |   |   |   | X | X  |    |    |
+|**Desenvolvimento - Servidor**                 |   |   |   |   |   | X |  X |    |    |
+|**Desenvolvimento - Integração                 |   |   |   |   |   |   |  X |  X |    |
+|**ENTREGA**                                    |   |   |   |   |   |   |    |    | X  |
+
