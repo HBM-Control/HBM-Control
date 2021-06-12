@@ -23,9 +23,9 @@ e de vazão. Essa estação, denominada END POINT enviará informações coletad
 GATEWAY via LoRaWAN, que por sua vez irá transmitir (via 3/4G) as medições para um servidor
 que irá prover o processamento/armazenamento desses dados, assim como a disponibilidade via
 interface web.
-
-![Top Level](./Documentos/imagens/ARQUITETURA%20-TOP%20LEVEL.jpg)
-
+<p align="center">
+  <img src="https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/imagens/ARQUITETURA%20-TOP%20LEVEL.jpg" />
+</p>
 
 <!-- ÍNDICE -->
 ## Índice
