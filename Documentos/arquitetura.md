@@ -1,26 +1,24 @@
 ## ARQUITETURA DO HARDWARE E SOFTWARE
 
 
-1. [TOP LEVEL.](#1-top-level)
-2. [END POINT.](#2-end-point)
-3. [GATEWAY.](#3-gateway)
-4. [SERVIDOR.](#4-servidor)
+1. [Top Level.](#1-top-level)
+2. [End Point.](#2-end-point)
+3. [Gateway.](#3-gateway)
+4. [Servidor.](#4-servidor)
 
 
+### 1. TOP LEVEL
 
-## 1. TOP LEVEL
+![Top Level](./imagens/ARQUITETURA%20-TOP%20LEVEL.jpg)
 
-IMAGEM
+### 2. END POINT
 
-## 2. END POINT
+![End Point](./imagens/ARQUITETURA%20-ENDPOINT.jpg)
 
+### 3. Gateway
 
-IMAGEM
+![Gateway](./imagens/ARQUITETURA%20-GATEWAY.jpg)
 
-## 3. GATEWAY
+### 4. Servidor
 
-IMAGEM
-
-## 4. SERVIDOR
-
-IMAGEM
+![Servidor](./imagens/ARQUITETURA%20-SERVIDOR.jpg)
