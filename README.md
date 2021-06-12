@@ -30,6 +30,8 @@ interface web.
 1. [Requisitos](/Documentos/requisitos.md)
 2. [Especificações](/Documentos/especificacoes.md)
 3. [Arquitetura](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/ARQUITETURA_SISTEMA_TOP_LEVEL.jpg)
+4. [Diagrama de classes]
+5. [Cronograma]
 
 
 <!-- AUTORES -->
