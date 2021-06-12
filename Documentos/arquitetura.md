@@ -1,10 +1,11 @@
 ## ARQUITETURA DO HARDWARE E SOFTWARE
 
 
-1. [TOP LEVEL.](#1-descrição)
-2. [END POINT.](#2-entradas-do-sistema)
-3. [GATEWAY.](#3-saídas-do-sistema)
-4. [SERVIDOR.](#4-funções-do-sistema)
+1. [TOP LEVEL.](#1-top-level)
+2. [END POINT.](#2-end-point)
+3. [GATEWAY.](#3-gateway)
+4. [SERVIDOR.](#4-servidor)
+
 
 
 ## 1. TOP LEVEL
