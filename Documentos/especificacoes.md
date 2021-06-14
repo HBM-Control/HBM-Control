@@ -8,9 +8,8 @@
 1. [Sensor de Distância.](#1-sensor-de-distância)
 2. [Reed Switch](#2-sensor-pluviométrico)
 3. [Sensor de Umidade e Temperatura.](#3-sensor-de-umidade-e-temperatura)
-4. [Sensor de Fluxo de  Água.](#4-sensor-de-fluxo-de-água)
-5. [Gateway](#5-gateway)
-6. [Servidor](#6-servidor)
+4. [Gateway](#4-gateway)
+5. [Servidor](#5-servidor)
 ---
 
 
@@ -75,31 +74,8 @@
 
 ---
 
-### 4. Sensor de Fluxo de Água
 
-| Sensor de Fluxo de Água 1/2       |                                                                              |
-| :-------------------------------: | :--------------------------------------------------------------------------: |
-|            **Modelo**             |                                       YF-S201b                               |
-|          **Quantidade**           |                                          1                                   |
-|        **Tipode sensor**          |                                      Efeito Hall                             |
-|      **Tensão de Operação**       |                                       5 a 24 (V)                             |
-|        **Corrente Máxima**        |                                       15 mA(5V)                              |
-|        **Faixa de Fluxo**         |                                       1-30 L/min                             |
-|        **Pressão Máxima**         |                                        2,0 MPa                               |
-|        **Pulso por litro**        |                                         450                                  |
-|        **Frequência (Hz)**        |                                    7,5xFluxo(L/min)                          |
-|    **Temperatura de trabalho**    |                                     -25ºC a 80ºC                             |
-|           **Exatidão**            |                                        10%                                   |
-|      **Comprimento do cabo**      |                                        15 cm                                 |
-|      **Dimensão da conexão**      |                                        1/2"                                  |
-|  **Dimensão diâmentro interno**   |                                        0,78"                                 |
-|       **Dimensão externa**        |                                        2,5" x 1,4" x 1,4"                    |
-|           **Pinagem**             |                     Vermelho (VCC), Preto (GND), Amarelo (Saída PWM)         |
-|      **Outras Informações**       | [Datasheet](https://img.filipeflop.com/files/download/Datasheet_YF-S201.pdf) |
-
----
-
-### 5. Gateway
+### 4. Gateway
 
 |            Raspberry              |                                                                              |
 | :-------------------------------: | :--------------------------------------------------------------------------: |
@@ -113,7 +89,7 @@
 
 ---
 
-### 6. Servidor
+### 5. Servidor
 
 |  Servidor        |                    |
 | :--------------: | :----------------: |
