@@ -1,7 +1,8 @@
 # Especificações do Sistema
-> Descrição das especificações de componentes do Sistema.
+> Descrição das especificações de componentes do Sistema
 
-
+# Pendencias:
+>> incluir interface LoRa
 
 **Módulos**
 
