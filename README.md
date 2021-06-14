@@ -34,7 +34,7 @@ interface web.
 3. [Arquitetura](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/arquitetura.md)
 4. [Diagrama de classes]
 5. [Cronograma](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/cronograma.md)
-6. [Lista de solicitações] (https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/listasolicitacoes.md)
+6. [Lista de solicitações](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/listasolicitacoes.md)
 
 
 <!-- AUTORES -->
