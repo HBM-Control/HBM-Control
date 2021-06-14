@@ -19,22 +19,20 @@ SEMBAH
 
 A proposta é auxiliar na automatização do processo de monitoramento de Bacias Hidrográficas.\
 Será desenvolvido um sistema interligando uma cadeia de estações de sensoriamento  que irão prover dados para monitoração das bacias hidrográficas e seus afluentes.
-O Projeto contará com pelo menos uma estação  de sensoriamento pluviométrico, altura linimétrica,  e de vazão. Essa estação, denominada END POINT enviará informações coletadas para um GATEWAY via LoRaWAN, que por sua vez irá transmitir (via 3/4G) as medições para um servidor que irá prover o processamento/armazenamento desses dados, assim como a disponibilidade via interface web.  
+O Projeto contará com pelo menos uma estação  de sensoriamento pluviométrico e altura linimétrica. Essa estação, denominada END POINT enviará informações coletadas para um GATEWAY via LoRaWAN, que por sua vez irá transmitir (via 3/4G) as medições para um servidor que irá prover o processamento/armazenamento desses dados, assim como a disponibilidade via interface web.  
 
 ## 2. Entradas do Sistema
 
 END POINT:
 - Sensor limnimétrico;
 - Sensor pluviométrico;
-- Sensor de vazão;
 - Sensor de umidade;
 - Sensor de temperatura;
 - Status bateria.
 
 GATEWAY:
-- Envia via 3/4G
+- Envia via internet
 - Recepção via LoRaWAN;
-- Status bateria.
 
 SERVIDOR:
 - Receber informações dos GATEWAY’s.
@@ -45,15 +43,14 @@ END POINT:
 - Transmissão via LoRaWAN do payload:
 - Sensor limnimétrico;
 - Sensor pluviométrico;
-- Sensor de vazão;
 - Sensor de umidade;
 - Sensor de temperatura;
 - Status bateria.
 
 GATEWAY:
-- Envia via 3/4G, payload contendo:
-  - ID do gateway;
-  - Status bateria.
+- Reencaminha via internet o payload recebido.
+
+  
 
 SERVIDOR:
 - Receber informações do gateways;
@@ -63,7 +60,7 @@ SERVIDOR:
 
 - Fazer medições do nível de água (altura linimétrica);
 - Fazer medições da quantidade de chuva (pluviometro);
-- Fazer medição da vazão de água (sensor de vazão);
+- Fazer medição da humidade e temperatura(sensor de humidade e temperatura);
 - Armazenar dados;
 - Consultar dados (Históricos);
 - Processar informações e emitir alertas.
