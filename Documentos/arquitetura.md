@@ -3,8 +3,7 @@
 
 1. [Top Level.](#1-top-level)
 2. [End Point.](#2-end-point)
-3. [Gateway.](#3-gateway)
-4. [Servidor.](#4-servidor)
+3. [Servidor.](#4-servidor)
 
 
 ### 1. Top Level
@@ -15,10 +14,6 @@
 
 ![End Point](./imagens/ARQUITETURA%20-ENDPOINT.jpg)
 
-### 3. Gateway
-
-![Gateway](./imagens/ARQUITETURA%20-GATEWAY.jpg)
-
-### 4. Servidor
+### 3. Servidor
 
 ![Servidor](./imagens/ARQUITETURA%20-SERVIDOR.jpg)
