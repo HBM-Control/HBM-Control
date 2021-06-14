@@ -5,6 +5,8 @@
 2. [End Point.](#2-end-point)
 3. [Servidor.](#4-servidor)
 
+**O Gateway, é tratado de forma transparente, pois, nessa aplicação ele se comporta apenas como estrutura de rede.**
+
 
 ### 1. Top Level
 
