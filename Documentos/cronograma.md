@@ -27,5 +27,5 @@ Ciclo 1 - 14/06 até 19/07
 |**Desenvolvimento - Estudo dos transmissores** |   |   |   |   | X | X |    |    |    |
 |**Desenvolvimento - Estudo de DB e WebAPP**    |   |   |   | X |X  | X |    |    |    |
 |**Desenvolvimento - Servidor**                 |   |   |   | X | X | X |  X |    |    |
-|**Desenvolvimento - Integração                 |   |   |   |   |   |   |  X |  X |    |
+|**Desenvolvimento - Integração **              |   |   |   |   |   |   |  X |  X |    |
 |**ENTREGA**                                    |   |   |   |   |   |   |    |    | X  |
