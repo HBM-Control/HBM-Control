@@ -3,9 +3,10 @@ Este documento contém informações e diagramas da modelagem do sistema.
 
 <!-- ÍNDICE -->
 ## Índice
-1. [END POINT](/Documentos/endpoint.md)
-  - DIAGRAMA DE CLASSES
-  - FORMATO DAS MENSAGENS
+1. [END POINT](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#end-point)
+  - [DIAGRAMA DE CLASSES](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#diagrama-de-classes)
+  - [FORMATO DAS MENSAGENS](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#formato-das-mensagens)
+  
 3. [SERVIDORES](/Documentos/servidores.md)
 
 
