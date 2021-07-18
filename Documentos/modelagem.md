@@ -6,6 +6,7 @@ Este documento contém informações e diagramas da modelagem do sistema.
 1. [END POINT](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#end-point)
   - [DIAGRAMA DE CLASSES](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#diagrama-de-classes)
   - [FORMATO DAS MENSAGENS](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#formato-das-mensagens)
+  - [CODIGOS](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#códigos)
   
 3. [SERVIDORES](/Documentos/servidores.md)
 
@@ -31,3 +32,6 @@ Este documento contém informações e diagramas da modelagem do sistema.
   };
 }
 ~~~
+
+## CÓDIGOS
+Os códigos utilizados para implementar o END POINR estão disponiveis no seguinte lint: [CÓDIGOS](https://github.com/HBM-Control/HBM-Control/tree/main/codigos/endpoint)
