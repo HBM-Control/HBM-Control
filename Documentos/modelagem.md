@@ -15,6 +15,10 @@ Este documento contém informações e diagramas da modelagem do sistema.
   
   ## DIAGRAMA DE CLASSES
   
+  <p align="center">
+  <img src="https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/imagens/endpoint_classes.jpg" />
+</p>
+  
   ## FORMATO DAS MENSAGENS
   O payload provido pelo End Point tem o seguinte formato:
 ~~~
