@@ -32,7 +32,7 @@ interface web.
 1. [Requisitos](/Documentos/requisitos.md)
 2. [Especificações](/Documentos/especificacoes.md)
 3. [Arquitetura](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/arquitetura.md)
-4. [Diagrama de classes]
+4. [Modelagem do sistema](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md)
 5. [Cronograma](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/cronograma.md)
 6. [Lista de solicitações](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/listasolicitacoes.md)
 
