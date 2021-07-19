@@ -8,7 +8,8 @@ Este documento contém informações e diagramas da modelagem do sistema.
   - [FORMATO DAS MENSAGENS](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#formato-das-mensagens)
   - [CODIGOS](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#códigos)
   
-3. [SERVIDORES](/Documentos/servidores.md)
+3. [SERVIDORES](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#servidor)
+  - [FLUXO MENSAGENS](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#fluxo-das-mensagens)
 
 
   <h1>END POINT</h1>
@@ -36,6 +37,20 @@ Este documento contém informações e diagramas da modelagem do sistema.
   };
 }
 ~~~
+
+<h1>SERVIDOR</h1>
+
+## FLUXO DAS MENSAGENS
+
+<p align="center">
+  <img src="https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/imagens/FluxoDasMensagens.png" />
+</p>
+
+## PAYLOAD DADOS NODE RED
+
+<p align="center">
+  <img src="https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/imagens/ChegadaDosDados.png" />
+</p>
 
 ## CÓDIGOS
 Os códigos utilizados para implementar o END POINR estão disponiveis no seguinte lint: [CÓDIGOS](https://github.com/HBM-Control/HBM-Control/tree/main/codigos/endpoint)
