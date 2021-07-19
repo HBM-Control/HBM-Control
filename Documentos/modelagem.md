@@ -12,7 +12,7 @@ Este documento contém informações e diagramas da modelagem do sistema.
   - [FLUXO MENSAGENS](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#fluxo-das-mensagens)
   - [PAYLOAD DADOS NODE RED](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#payload-dados-node-red)
   - [ESTRUTURA DO BANCO](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#estrutura-do-banco)
-  - [ESTRUTURA DO BANCO](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#inserir-dados-no-banco)
+  - [INSERIR DADOS NO BANCO](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#inserir-dados-no-banco)
 
   <h1>END POINT</h1>
   
