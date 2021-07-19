@@ -10,7 +10,7 @@ Este documento contém informações e diagramas da modelagem do sistema.
   
 3. [SERVIDORES](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#servidor)
   - [FLUXO MENSAGENS](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#fluxo-das-mensagens)
-
+  - [PAYLOAD DADOS NODE RED](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#payload-dados-node-red)
 
   <h1>END POINT</h1>
   
