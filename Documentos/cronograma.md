@@ -49,7 +49,7 @@ Entrega prevista:
 
 | Etapa | **26/07 (1)** | **02/08 (2)** | **09/08 (3)** | **16/08 (4)** | **23/08 (5)** | 
 |:---------------------------------------------:|:--:|:-:|:-:|:-:|:-:|
-|**Implementação do ReedSwitch*                 | X | X |   |   |   |   
+|**Implementação do ReedSwitch**                | X | X |   |   |   |   
 |**Confirmação ACK**                            |   | X | X |   |   | 
 |**Leitura Status Energia**                     |   |   | X | X |   |
 |**Ajuste plotagens do histórico**              | X | X | X | X |   | 
