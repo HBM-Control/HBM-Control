@@ -11,9 +11,9 @@ Entrega prevista:
 |:---------------------------------------------:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |**Concepção da ideia**                         | X |   |   |   |   |   |    |    |    | 
 |**Definição dos requisitos**                   | X |   |   |   |   |   |    |    |    | 
-|**Detalhamento **                              |   | X | X | X |   |   |    |    |    |
-|**Desenvolvimento **                           |   |   |   | X | X | X | X  | X  |    |
-|** Integração **                               |   |   |   |   |   |   |  X |  X |    |
+|**Detalhamento**                              |   | X | X | X |   |   |    |    |    |
+|**Desenvolvimento**                           |   |   |   | X | X | X | X  | X  |    |
+|**Integração**                                |   |   |   |   |   |   |  X |  X |    |
 |**ENTREGA**                                    |   |   |   |   |   |   |    |    | X  |
 
 ### Cronograma Detalhado
@@ -30,7 +30,7 @@ Entrega prevista:
 |**Desenvolvimento - Estudo dos transmissores** |   |   |   |   | X | X |    |    |    |
 |**Desenvolvimento - Estudo de DB e WebAPP**    |   |   |   | X |X  | X |    |    |    |
 |**Desenvolvimento - Servidor**                 |   |   |   | X | X | X |  X |    |    |
-|**Desenvolvimento - Integração **              |   |   |   |   |   |   |  X |  X |    |
+|**Desenvolvimento - Integração**               |   |   |   |   |   |   |  X |  X |    |
 |**ENTREGA**                                    |   |   |   |   |   |   |    |    | X  |
 
 
@@ -51,9 +51,9 @@ Entrega prevista:
 |:---------------------------------------------:|:--:|:-:|:-:|:-:|:-:|
 |**Implementação do ReedSwitch*                 | X | X |   |   |   |   
 |**Confirmação ACK**                            |   | X | X |   |   | 
-|**Leitura Status Energia **                    |   |   | X | X |   |
-|**Ajuste plotagens do histórico **             | X | X | X | X |   | 
-|**Alertas **                                   |   |   | X | X |   |  
+|**Leitura Status Energia**                     |   |   | X | X |   |
+|**Ajuste plotagens do histórico**              | X | X | X | X |   | 
+|**Alertas**                                    |   |   | X | X |   |  
 |**ENTREGA**                                    |   |   |   |   | X |
 
 
