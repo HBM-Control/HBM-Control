@@ -40,7 +40,6 @@ Entrega prevista:
 
 Entrega prevista:
 - 3 sensores operantes (ReedSwitch, HC-SR04 e DHT11);
-- Confirmação do recebimento do gateway via Ack;
 - Leitura do status de energia; 
 - Plotagem das leituras (atuais e histórico);
 - Alertas. 
@@ -49,8 +48,7 @@ Entrega prevista:
 
 | Etapa | **26/07 (1)** | **02/08 (2)** | **09/08 (3)** | **16/08 (4)** | **23/08 (5)** | 
 |:---------------------------------------------:|:--:|:-:|:-:|:-:|:-:|
-|**Implementação do ReedSwitch**                | X | X |   |   |   |   
-|**Confirmação ACK**                            |   | X | X |   |   | 
+|**Implementação do ReedSwitch**                | X | X |   |   |   |    
 |**Leitura Status Energia**                     |   |   | X | X |   |
 |**Ajuste plotagens do histórico**              | X | X | X | X |   | 
 |**Alertas**                                    |   |   | X | X |   |  
