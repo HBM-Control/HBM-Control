@@ -5,9 +5,11 @@ Este documento contém informações e diagramas da modelagem do sistema.
 ## Índice
  
 1. [END POINT](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#end-point)
+
 <p align="center">
   <img src="https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/imagens/montagem.png" />
 </p>
+
   - [DIAGRAMA DE CLASSES](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#diagrama-de-classes)
   - [FORMATO DAS MENSAGENS](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#formato-das-mensagens)
   - [CODIGOS](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#códigos)
@@ -29,14 +31,14 @@ Este documento contém informações e diagramas da modelagem do sistema.
   ## FORMATO DAS MENSAGENS
   O payload provido pelo End Point tem o seguinte formato:
 ~~~
- function decodeUplink(input) {
+function decodeUplink(input) {
   return {
     data: {
       temp: input.bytes[0],
       umidade: input.bytes[1],
       distancia:input.bytes[2],
-      temporeed:input.bytes[3]
-      
+      temporeed:input.bytes[3],
+      baterylevel:input.bytes[4]
     },
     warnings: [],
     errors: []
