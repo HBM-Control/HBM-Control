@@ -3,12 +3,16 @@ Este documento contém informações e diagramas da modelagem do sistema.
 
 <!-- ÍNDICE -->
 ## Índice
+ 
 1. [END POINT](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#end-point)
+<p align="center">
+  <img src="https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/imagens/montagem.png" />
+</p>
   - [DIAGRAMA DE CLASSES](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#diagrama-de-classes)
   - [FORMATO DAS MENSAGENS](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#formato-das-mensagens)
   - [CODIGOS](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#códigos)
   
-3. [SERVIDORES](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#servidor)
+2. [SERVIDORES](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#servidor)
   - [FLUXO MENSAGENS](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#fluxo-das-mensagens)
   - [PAYLOAD DADOS NODE RED](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#payload-dados-node-red)
   - [ESTRUTURA DO BANCO](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#estrutura-do-banco)
