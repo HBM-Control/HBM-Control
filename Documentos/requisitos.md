@@ -19,7 +19,7 @@ SEMBAH
 
 A proposta é auxiliar na automatização do processo de monitoramento de Bacias Hidrográficas.\
 Será desenvolvido um sistema interligando uma cadeia de estações de sensoriamento  que irão prover dados para monitoração das bacias hidrográficas e seus afluentes.
-O Projeto contará com pelo menos uma estação  de sensoriamento pluviométrico e altura linimétrica. Essa estação, denominada END POINT enviará informações coletadas para um GATEWAY via LoRaWAN, que por sua vez irá transmitir (via 3/4G) as medições para um servidor que irá prover o processamento/armazenamento desses dados, assim como a disponibilidade via interface web.  
+O Projeto contará com pelo menos uma estação contendo os seguintes sensores: pluviométrico, altura linimétrica, umidade, temperatura e nível de bateria. Essa estação, denominada END POINT enviará informações coletadas para um GATEWAY via LoRaWAN, que por sua vez irá transmitir via internet as medições para um servidor que irá prover o processamento/armazenamento desses dados, assim como a disponibilidade via interface web.  
 
 ## 2. Entradas do Sistema
 
@@ -61,6 +61,7 @@ SERVIDOR:
 - Fazer medições do nível de água (altura linimétrica);
 - Fazer medições da quantidade de chuva (pluviometro);
 - Fazer medição da humidade e temperatura(sensor de humidade e temperatura);
+- Fazer medições do nível de bateria;
 - Armazenar dados;
 - Consultar dados (Históricos);
 - Processar informações e emitir alertas.
