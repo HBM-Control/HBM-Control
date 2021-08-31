@@ -18,8 +18,7 @@ Instituto Federal de Santa Catarina - Campus São Jose (IFSC-SJ)
 A proposta é auxiliar na automatização do processo de monitoramento de Bacias Hidrográficas.
 Será desenvolvido um sistema interligando uma cadeia de estações de sensoriamento que irão
 prover dados para monitoração das bacias hidrográficas e seus afluentes.
-O Projeto contará com pelo menos uma estação, contendo sensor pluviométrico, de altura linimétrica, 
-de temperatura e humidade, além de sensor de carga na bateria.
+O Projeto contará com pelo menos uma estação, contendo os seguintes sensores: pluviométrico, de altura linimétrica, temperatura, humidade e nível de bateria.
  Essa estação, denominada END POINT enviará informações coletadas para um
 GATEWAY via LoRaWAN, que por sua vez irá transmitir via internet as medições para um servidor
 que irá prover o processamento/armazenamento desses dados, assim como a disponibilidade via
