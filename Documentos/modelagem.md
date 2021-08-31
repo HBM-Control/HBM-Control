@@ -6,10 +6,8 @@ Este documento contém informações e diagramas da modelagem do sistema.
  
 1. [END POINT](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#end-point)
 
-<p align="center">
-  <img src="https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/imagens/montagem.png" />
-</p>
 
+  - [MONTAGEM](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#montagem)
   - [DIAGRAMA DE CLASSES](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#diagrama-de-classes)
   - [FORMATO DAS MENSAGENS](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#formato-das-mensagens)
   - [CODIGOS](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#códigos)
@@ -21,6 +19,22 @@ Este documento contém informações e diagramas da modelagem do sistema.
   - [INSERIR DADOS NO BANCO](https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/modelagem.md#inserir-dados-no-banco)
 
   <h1>END POINT</h1>
+  
+  ## MONTAGEM
+  
+  <p align="center">
+  <img src="https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/imagens/montagem.png" />
+</p>
+
+ITENS UTILIZADOS:
+ - ARDUINO NANO COM SHIELD PARA LORAWAN;
+ - 2 resistores de 12k;
+ - Sensor DHT11;
+ - Sensor HC-SR04;
+ - ReedSwitch com báscula;
+ - Bateria 9 volts com adaptador;
+ - Jumpers.
+
   
   ## DIAGRAMA DE CLASSES
   
