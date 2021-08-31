@@ -39,7 +39,7 @@ ITENS UTILIZADOS:
   ## DIAGRAMA DE CLASSES
   
   <p align="center">
-  <img src="https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/imagens/endpoint_classes.jpg" />
+  <img src="https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/imagens/endpoint_classes.JPG" />
 </p>
   
   ## FORMATO DAS MENSAGENS
