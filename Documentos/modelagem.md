@@ -71,7 +71,7 @@ function decodeUplink(input) {
 ## PAYLOAD DADOS NODE RED
 
 <p align="center">
-  <img src="https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/imagens/ChegadaDosDados.png" />
+  <img src="https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/imagens/PayloadRecebido.png" />
 </p>
 
 ## ESTRUTURA DO BANCO
