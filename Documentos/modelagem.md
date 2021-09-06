@@ -70,11 +70,15 @@ function decodeUplink(input) {
   <img src="https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/imagens/FlowSistema.png" />
 </p>
 
+Podemos veriificar na imagem mostrada anteriormente, a entrada de dados da TTN, e como é tratado fluxo de dados, como inserção, seleção no banco assim como outras tratativas dos dados.
+
 #### Flow Dashboard
 
 <p align="center">
   <img src="https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/imagens/FlowDashBoard.png" />
 </p>
+
+Podemos veriificar na imagem mostrada anteriormente, como são apresentados os dados depois de tratados, sendo encaminhados para a tabela no caso do relatório, para os gráficos no caso de hitórico ou para os gauges no caso do ultimo dado coletado.
 
 ## PAYLOAD DADOS NODE RED
 
@@ -96,6 +100,25 @@ CREATE TABLE `pji` (
   PRIMARY KEY (`idDevice`)
 ) ENGINE=InnoDB AUTO_INCREMENT=283 DEFAULT CHARSET=latin1;
 ~~~
+
+## DASHBOARD
+
+#### HBM-Monitoramento
+
+<p align="center">
+  <img src="https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/imagens/HMB-Monitoramento-Dashboard.png" />
+</p>
+
+No menu do monitoramento podemos verificar a informações da seguinte forma, quando o dado é coletado é apresentado a esquerda, onde é mostrado a data e horário da ultima coleta realizada assim como os valores de Temperatura, Umidade, Distancia (nível da água), Bateria (Nível da bateria) e o Pluviomentro. <br/><br/>
+A direita encontra-se o campo onde pode ser passado a data e horário inicial e final que quer realizar o filtro, em seguinda é apresentado abaixo os gráficos do período solicitado.
+
+#### HBM-Relatório
+
+<p align="center">
+  <img src="https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/imagens/HMB-Relatorio-Dashboard.png" />
+</p>
+
+No menu de relatório é a parte do sistema onde podemos também realizar um filtro por um determinado período e é apresentado em forma de uma tabela/relatório. <br/>
 
 ## CÓDIGOS
 Os códigos utilizados para implementar o END POINT estão disponiveis no seguinte link: [CÓDIGOS](https://github.com/HBM-Control/HBM-Control/tree/main/codigos/endpoint)<br/>
