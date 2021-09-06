@@ -98,4 +98,5 @@ CREATE TABLE `pji` (
 ~~~
 
 ## CÓDIGOS
-Os códigos utilizados para implementar o END POINR estão disponiveis no seguinte lint: [CÓDIGOS](https://github.com/HBM-Control/HBM-Control/tree/main/codigos/endpoint)
+Os códigos utilizados para implementar o END POINT estão disponiveis no seguinte link: [CÓDIGOS](https://github.com/HBM-Control/HBM-Control/tree/main/codigos/endpoint)<br/>
+Os códigos utilizados para implementar o servidor estão disponiveis no seguinte link: [CÓDIGOS](https://github.com/HBM-Control/HBM-Control/tree/main/codigos/servidor)
