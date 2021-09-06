@@ -64,8 +64,16 @@ function decodeUplink(input) {
 
 ## FLUXO DAS MENSAGENS
 
+#### Flow Sistema
+
 <p align="center">
-  <img src="https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/imagens/FluxoDasMensagens.png" />
+  <img src="https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/imagens/FlowSistema.png" />
+</p>
+
+#### Flow Dashboard
+
+<p align="center">
+  <img src="https://github.com/HBM-Control/HBM-Control/blob/main/Documentos/imagens/FlowDashBoard.png" />
 </p>
 
 ## PAYLOAD DADOS NODE RED
@@ -87,22 +95,6 @@ CREATE TABLE `pji` (
   `umidade` float DEFAULT NULL,
   PRIMARY KEY (`idDevice`)
 ) ENGINE=InnoDB AUTO_INCREMENT=283 DEFAULT CHARSET=latin1;
-~~~
-
-## INSERIR DADOS NO BANCO
-
-~~~
-var Timestamp = msg.payload.received_at
-var Nomedevice = msg.payload.end_device_ids.device_id
-var Valordistancia = msg.payload.uplink_message.decoded_payload.distancia
-var Valortemp = msg.payload.uplink_message.decoded_payload.temp
-var Valortemporeed = msg.payload.uplink_message.decoded_payload.temporeed
-var Valorumidade = msg.payload.uplink_message.decoded_payload.umidade
-
-msg.topic = "INSERT INTO pji(`timestamp`, `nomeDevice`, `distancia`, `temp`, `temporeed`, `umidade`) VALUES ("+Timestamp+"', "+Nomedevice+"', '"+Valordistancia+"', '"+Valortemp+"', '"+Valortemporeed+"', '"+Valorumidade+"')";
-
-
-return msg;
 ~~~
 
 ## CÓDIGOS
